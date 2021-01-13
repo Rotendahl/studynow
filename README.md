@@ -18,12 +18,22 @@ python.
 
     * [Google Colab][gc]: Det er et andet interface, men har meget regnekraft.
     * [Binder][bin]: Det er samme interface som du ser i kurset men har mindre
-    regnekraft.
+    regnekraft. (Vær opmærksom på at linket kan tage et par minutter at loade)
 
 
+### Video 2: Forstå data formater
+Denne video forklarer hvad et data format er og hvilke typer der eksisterer.
+
+
+### Video 3: Indlæsning af data
+Vi ser på hvordan man kan bruge [pandas][pan] til at få data ind i vores kode.
+Data eksemplet kan findes på [github][dataEks]
 
 
 
 [pk]: https://ida.studynow.dk/courses/take/python-for-begyndere/lessons/16660330-1-velkommen-til-studynow
 [ig]: https://s3.amazonaws.com/thinkific-import-development/345314/InstallationsguidetilPython-200925-122107.pdf
 [gc]: https://colab.research.google.com
+[bin]: https://gesis.mybinder.org/binder/v2/gh/Rotendahl/studynow/master
+[pan]: https://pandas.pydata.org
+[dataEks]: https://github.com/Rotendahl/studynow/blob/master/data/exampleCsv.csv
