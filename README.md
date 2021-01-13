@@ -1,4 +1,4 @@
-# Study Now Kursus : Data Analyse I Python
+[# Study Now Kursus : Data Analyse I Python
 Dette repo indeholder links, data og kode til kurset "Data Analyse i Python" hos
 [Studynow](https://ida.studynow.dk/users/sign_in).
 
@@ -27,7 +27,32 @@ Denne video forklarer hvad et data format er og hvilke typer der eksisterer.
 
 ### Video 3: Indlæsning af data
 Vi ser på hvordan man kan bruge [pandas][pan] til at få data ind i vores kode.
-Data eksemplet kan findes på [github][dataEks]
+Data eksemplet kan findes på [github][dataEks].
+Github har også den [færdige notebook][fn] fra videoen.
+
+
+
+### Video 4: Pandas Funktioner
+I denne video ser vi på hvilke funktioner pandas giver os til at arbejde med
+data. Ønsker man mere information om pandas anbefales deres [10 minutes to pandas][min]
+guide.
+
+### Video 5: Grafer af data
+Vi ser hvordan pandas kan bruges til at lave grafer og plots.
+Ønsker man mere viden har pandas en side med alt [dokumentation][graf]
+Hvis man vil se alt kode fra graf videoerne har github en [notebook][nb]
+
+### Video 6: Avanceret grafer
+Vi skifter fra det mere simple matplotlib til det mere avanceret [plotly][plt], som
+kan bruges til at lave interaktive grafer.
+
+
+### Video 7: Filtering af data
+Vi ser på hvordan man kan bruge betingelser til at lave udsnit af sit datasæt.
+
+
+### Video 8: Case del 1 -- Problemstilling
+Vi vil lave en simpel machine learning case over
 
 
 
@@ -37,3 +62,8 @@ Data eksemplet kan findes på [github][dataEks]
 [bin]: https://gesis.mybinder.org/binder/v2/gh/Rotendahl/studynow/master
 [pan]: https://pandas.pydata.org
 [dataEks]: https://github.com/Rotendahl/studynow/blob/master/data/exampleCsv.csv
+[fn]: https://github.com/Rotendahl/studynow/blob/master/Notebooks/Indlæs%20data.ipynb
+[min]: https://pandas.pydata.org/docs/user_guide/10min.html
+[graf]: https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html
+[plt]: https://plotly.com/python/
+[nb]:
