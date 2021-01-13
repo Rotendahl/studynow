@@ -52,8 +52,15 @@ Vi ser på hvordan man kan bruge betingelser til at lave udsnit af sit datasæt.
 
 
 ### Video 8: Case del 1 -- Problemstilling
-Vi vil lave en simpel machine learning case over
+Vi vil lave en simpel machine learning case over [mnist][mni] datasætet.
 
+### Video 9: Case del 2 -- Preprocessering
+Vi arbejder på at få indlæst og behandlet vores data så det kan bruges til
+vores algoritme. Den færdig notebook for hele casen kan findes på [github][ml]
+
+
+### Video 10: Case del 3 -- Algoritmen
+Vi implementerer en simpel version af [k-nearest neighbors][https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm] algoritmen.
 
 
 [pk]: https://ida.studynow.dk/courses/take/python-for-begyndere/lessons/16660330-1-velkommen-til-studynow
@@ -61,9 +68,11 @@ Vi vil lave en simpel machine learning case over
 [gc]: https://colab.research.google.com
 [bin]: https://gesis.mybinder.org/binder/v2/gh/Rotendahl/studynow/master
 [pan]: https://pandas.pydata.org
-[dataEks]: https://github.com/Rotendahl/studynow/blob/master/data/exampleCsv.csv
-[fn]: https://github.com/Rotendahl/studynow/blob/master/Notebooks/Indlæs%20data.ipynb
+[dataEks]: https://github.com/Rotendahl/studynow/blob/master/exampleCsv.csv
+[fn]: https://github.com/Rotendahl/studynow/blob/master/Indlæs%20data.ipynb
 [min]: https://pandas.pydata.org/docs/user_guide/10min.html
 [graf]: https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html
 [plt]: https://plotly.com/python/
-[nb]:
+[nb]: https://github.com/Rotendahl/studynow/blob/master/Grafer.ipynb
+[mn]: https://github.com/Rotendahl/studynow/blob/master/mnist.csv
+[ml]: https://github.com/Rotendahl/studynow/blob/master/Machine%20Learning.ipynb
